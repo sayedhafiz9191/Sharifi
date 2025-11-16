@@ -1,8 +1,8 @@
 {
-    "name": "attendance/system",
+    "name": "daily/expense-tracker",
     "type": "project",
-    "description": "Attendance System API built with Laravel 10",
-    "keywords": ["laravel", "attendance", "api"],
+    "description": "Daily Expense Tracker API built with Laravel 10",
+    "keywords": ["laravel", "expenses", "api"],
     "license": "MIT",
     "require": {
         "php": "^8.1",
@@ -10,7 +10,6 @@
         "fruitcake/laravel-cors": "^3.0",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.0",
-        "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8"
     },
     "require-dev": {
